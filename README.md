@@ -1,1 +1,2 @@
-# RAVE-Model-Train-Neutone-Export-
+# RAVE Model Train + Neutone FX Plugin Export
+
